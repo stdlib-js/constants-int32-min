@@ -20,7 +20,7 @@ limitations under the License.
 
 # Min Int32
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Minimum signed 32-bit integer.
 
@@ -82,7 +82,7 @@ console.log( INT32_MIN );
 
 ## See Also
 
--   [`@stdlib/constants/int32/max`][@stdlib/constants/int32/max]: maximum signed 32-bit integer.
+-   <span class="package-name">[`@stdlib/constants/int32/max`][@stdlib/constants/int32/max]</span><span class="delimiter">: </span><span class="description">maximum signed 32-bit integer.</span>
 
 </section>
 
@@ -133,8 +133,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-int32-min/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-int32-min?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-int32-min.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-int32-min/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
