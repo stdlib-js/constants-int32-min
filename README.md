@@ -90,7 +90,7 @@ console.log( INT32_MIN );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/int32/max`][@stdlib/constants/int32/max]</span><span class="delimiter">: </span><span class="description">maximum signed 32-bit integer.</span>
+-   <span class="package-name">[`@stdlib/constants-int32/max`][@stdlib/constants/int32/max]</span><span class="delimiter">: </span><span class="description">maximum signed 32-bit integer.</span>
 
 </section>
 
