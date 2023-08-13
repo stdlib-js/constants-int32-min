@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../tmp/index.js"],
+  "sourcesContent": ["/** @license Apache-2.0 */\n'use strict';\nvar INT32_MIN = -2147483648|0;\nmodule.exports = INT32_MIN;\n"],
+  "mappings": "aAEA,IAAIA,EAAY,YAChB,OAAO,QAAUA",
+  "names": ["INT32_MIN"]
+}
