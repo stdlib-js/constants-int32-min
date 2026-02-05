@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@esm/index.mjs';
+import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@v0.2.3-esm/index.mjs';
 ```
 
 #### INT32_MIN
@@ -72,7 +72,7 @@ var bool = ( INT32_MIN === -2147483648 );
 <body>
 <script type="module">
 
-import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@esm/index.mjs';
+import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@v0.2.3-esm/index.mjs';
 
 console.log( INT32_MIN );
 // => -2147483648
