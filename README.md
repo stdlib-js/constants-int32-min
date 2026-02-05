@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-int32-min/tags). For example,
+
+```javascript
 import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@v0.2.3-deno/mod.js';
 ```
 
@@ -67,7 +72,7 @@ var bool = ( INT32_MIN === -2147483648 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@v0.2.3-deno/mod.js';
+import INT32_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-min@deno/mod.js';
 
 console.log( INT32_MIN );
 // => -2147483648
